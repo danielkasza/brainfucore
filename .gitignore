@@ -1,0 +1,6 @@
+*.v
+*.b
+*.bfb
+*.bin
+*.o
+/prototype/bfemu
